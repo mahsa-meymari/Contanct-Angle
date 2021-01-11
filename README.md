@@ -6,9 +6,16 @@ Solution:
 1. Read in Gray Scale
 ![Gray_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/gray.jpg?raw=true)
 2. Edge Detection
+![Edge_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/edges.jpg?raw=true)
 3. Crop
+![Crop_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/cropped.jpg?raw=true)
 4. Surface Detection
+![Surface_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/surface.jpg?raw=true)
 5. Under Surface Removal
+![Gray_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/gray.jpg?raw=true)
 6. Drop Contact Surface Detection
-7. angent Lines Detection
+![Gray_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/gray.jpg?raw=true)
+7. Tangent Lines Detection
+![Tangent_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/tangent.jpg?raw=true)
 8. Contact Angle Calculation
+![Gray_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/gray.jpg?raw=true)
