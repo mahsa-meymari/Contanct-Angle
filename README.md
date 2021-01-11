@@ -4,7 +4,7 @@ Determining Contact angle of a drop
 Problem: The input is an image of a drop we want it's right and left angle
 Solution:
 1. Read in Gray Scale
-![Gray_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/gray.jpg =100x20)
+<img src="https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/gray.jpg" alt="Gray image" width="200"/>
 2. Edge Detection
 ![Edge_image](https://github.com/mahsa-meymari/Contanct-Angle/blob/main/result_steps/edges.jpg?raw=true)
 3. Crop
